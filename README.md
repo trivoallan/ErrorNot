@@ -70,6 +70,7 @@ If you upgrade your errornot, you need launch the task to migration your databas
 
    - The [Ruby errornot notifier (Rails, Sinatra, Rack)](http://github.com/shingara/errornot_notifier)
    - The [PHP errornot notifier](http://github.com/francois2metz/php-errornot)
+   - The [symfony errornot notifier](http://github.com/contructions-incongrues/sfExtraLoggersPlugin)
    - The [Drupal notifier](http://drupal.org/project/errornot)
    - The [Python errornot notifier](http://bitbucket.org/virtuo/errornot_notifier_py/wiki/Home) with support for WSGI applications (Django, Pylons...)
 
